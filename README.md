@@ -59,6 +59,19 @@ Admin Credential:
 
 The application runs from http://localhost:8080/
 
+## Why Used This Technologies
+
+**Sprint Boot:** The Spring library is one of the most well-known libraries in the Java world and you can easily find a lot of information about it. That's why I chose Spring for my project.
+
+**Maven:** Project requires maven to run without IDE configurations.
+
+**Spring Security:** Spring Security is essential for the login-registration system. I can manage which roles can access which pages. Using Spring Security is very simple and it is the main security library for Spring.
+
+**Thymeleaf:** I didn't know Thymeleaf exactly, I had react and plain html in mind, but Thymeleaf made my job much easier compared to others, I saved time.
+
+**Bootstrap:** An easy to use and fast library in the current Css world, I have used it in this project as I have worked on it before.
+
+
 ## Screenshots
 
 ![screen shot 2018-07-11 at 09 19 15](https://github.com/YafeshanUnal/ReportApplication/blob/master/src/login.png)
